@@ -1,0 +1,116 @@
+this is amazing now we are going to see
+how to run llama 3 completely locally on
+your computer we are going to see how to
+run using o llama using LM studio and
+using Jan AI by running llama 3
+completely locally you are able to keep
+your data private and use the power of
+AI to your advantage that's exactly what
+we're going to see today let's get
+[Music]
+started hi everyone I'm really excited
+to show you about llama 3 running
+locally I'm going to take you through
+step by step on how to run this using
+olama LM studio and Jan AI but before
+that I regularly create videos in
+regards to Artificial Intelligence on my
+YouTube channel so do subscribe and
+click the Bell icon to stay tuned make
+sure you click the like button so this
+video can be helpful for many ofs like
+here first download olama from ama.com
+you should be able to click the download
+button and you have mac Co version Linux
+version and windows version you can
+download those according to your needs
+once after you do that in your terminal
+o llama run llama 3 this will
+automatically download the Llama 3 8
+billion parameter model on your computer
+then click enter now the model is ready
+for you to use now I can ask any
+question give me a meal plan for today
+and it's very fast super fast as you can
+see in the screen I'm really impressed
+by the speed and I am using Mac M2 so
+now I'm going to exit this now let's see
+how we can install using LM Studio go to
+LM studio. a website there you have all
+the three versions for Windows for mac
+and for Linux download that accordingly
+and install it next you will have an
+interface like this there you can search
+for llama 3 and you got multiple version
+here just because it got recently
+published you can see llama 38 billion
+instructs on the homepage itself and you
+should be able to download by clicking
+the download button now it is
+downloading you can see the downloading
+progress at the bottom of the screen now
+now the downloading is complete now you
+can go to the AI chat icon there at the
+top you can choose the model you want to
+use I'm going to use Lama 3 click that
+and going to accept new system prompt
+now it's loading the model in LM studio
+now it is ready for us to chat I'm going
+to ask give me a meal plan for me today
+and it's generating the response here
+also it's faster it gave me a mean plan
+ingredients on how to make it and
+instruction on how to make it
+this is exciting next we going to see
+how we can use Jan locally on your
+computer and install llama 3 same as
+before we got Mac version for Jan AI you
+can download that and install it you can
+search the model here llama 3 and then
+install it once after you install you
+can go to the chat section click a new
+chat on the right hand side you can
+choose which model you want to use I'm
+going to choose llama 2 but llama 3 will
+be available very soon I'm going going
+to show you how you can use when you get
+llama 3 just choose that model then you
+can ask a question here give me a meal
+plan for me today and it will
+automatically start generating the
+response as you can see here next I'm
+going to show you how to use olama API
+to load llama 3 in your terminal make
+sure you pip install o llama and then
+click enter next inside a file import o
+llama then o LL or chat there you
+provide llama 3 model and you're going
+to ask a question why is sky blue you
+can even ask your own question and
+finally we are printing the response
+that's it just few lines of code now I'm
+going to run this code and I've started
+the code and here is the response of why
+the sky appears blue this is amazing
+similarly for LM Studio you can go to
+the local server icon there you can go
+and click Start server this will
+automatically run it in this endpoint
+here you got all the code for curl
+command here it is for python here is
+the code so we're going to copy the
+python code and then paste it in vs code
+and the base URL is this it's llama 38
+billium parameter model now going to run
+the code pip install open AI to install
+the open AI package then running the
+code and here is the response so the
+question is introduce yourself and here
+is the answer similarly for Jan AI you
+can use Local Host 1337 endpoint to
+integrate that with your API I'm really
+excited about this I'm going to create
+more videos similar to this so stay
+tuned I hope you like this video do like
+share and subscribe and thanks for
+watching
